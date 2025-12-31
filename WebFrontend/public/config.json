@@ -1,0 +1,12 @@
+{
+  "appVersion": "0.1.0",
+  "apiBase": "http://localhost:8000",
+  "wsUrl": "ws://localhost:8000/v1/ws/metrics",
+  "publicDashboard": true,
+  "featureFlags": {
+    "scenarios": false,
+    "exports": false,
+    "alerts": true
+  },
+  "sentryDsn": null
+}
